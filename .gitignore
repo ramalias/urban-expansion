@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+venv/
+
+# Images you don't want to track
+*.tif
+*.tiff
+*.png
+*.jp2
+*.jpg
+*.jpeg
+*.zip
+*.shx
+*.shp
+*.qmd
+*.dbf
+*.cpg
+*.prj
+*.gpkg
+
+# Python cache
+__pycache__/
+*.pyc
