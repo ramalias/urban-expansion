@@ -19,6 +19,9 @@ venv/
 *.gpkg
 *.xml
 *.xsd
+*.aux.xml
+*.tif.aux.xml
+*.txt
 
 # Python cache
 __pycache__/
