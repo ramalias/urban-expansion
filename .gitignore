@@ -27,6 +27,7 @@ venv/
 *.exe
 *.xlsx
 *.docx
+*.npy
 
 # Python cache
 __pycache__/
